@@ -1,4 +1,4 @@
-# This is project is for me to use to learn vue3 from various tutorials. 
+# This project is for me to use to learn vue3 from various tutorials. 
 
 
 ## Project setup
